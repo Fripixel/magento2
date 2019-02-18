@@ -6,7 +6,7 @@
 	    "AFL-3.0"
 	],
 	"require": {
-	    "php": "7.*",
+	    "php": "^7.1.26",
 	    "pagseguro/pagseguro-php-sdk": "4.*"
 	},
 	"autoload": {
